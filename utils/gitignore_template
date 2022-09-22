@@ -1,0 +1,5 @@
+# place this file at the root of your git repository as `.gitignore`.
+bin/
+# place your *.class files under out/ directories, just as most IDEs do.
+out/
+*/out/
