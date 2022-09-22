@@ -5,4 +5,4 @@ Any codes I write for CS2020 (Software Programming) course will be accessible fr
 
 # This repository also includes some utility files for java programming.
 Some files or configs I did to make Java coding a bit easier will also be available on this repository.
-See [LICENSE](LICENSE) for their license.
+See [LICENSE](LICENSE) for their license, but please do note that works hyper-linked here or codes in submodules may be subject to different licenses.
